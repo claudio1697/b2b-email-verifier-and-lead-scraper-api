@@ -3,6 +3,7 @@
 Production REST APIs for B2B outreach, CRM enrichment, email deliverability (`MX`, `SPF`, `DMARC`, disposable domain detection), and automated AI Search (`GEO`) audits.
 
 ### 🔌 Live Endpoints & Subscriptions
+- **Live Email Deliverability, SPF & DMARC Scanner (Web UI):** [https://citepulse-geo.vercel.app/correo.html](https://citepulse-geo.vercel.app/correo.html)
 - **Official RapidAPI Hub (Monthly Agency & Developer Plans):** [Subscribe on RapidAPI](https://rapidapi.com/ClaudiuFlorinOneata/api/citepulse-geo-and-ai-seo-audit)
 - **B2B Solutions & Recommended WordPress/SEO Infrastructure Hub:** [https://citepulse-geo.vercel.app/herramientas.html](https://citepulse-geo.vercel.app/herramientas.html)
 
